@@ -1,4 +1,4 @@
-#Author: Geecks for Geecks
+#Author: Geeks for Geeks
 #Last Access: 07.22.2024
 
 import requests
