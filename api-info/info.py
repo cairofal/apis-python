@@ -1,3 +1,6 @@
+#Author: Geecks for Geecks
+#Last Access: 07.22.2024
+
 import requests
 import json
 # Function to get live stock data for a symbol
